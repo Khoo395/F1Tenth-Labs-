@@ -4,6 +4,10 @@ In this lab, better reactive methods such as **Follow the Gap** and other varian
 
 To Run the Program, make sure you have installed the F1 Tenth simulator from [here](https://f1tenth.readthedocs.io/en/stable/going_forward/simulator/sim_install.html)
 
+As this Assignment runs on the Levine_blocked map, You will need to change the map by doing the following: 
+1. Navigate to f1tenth_simulator/launch and open "simulator.launch" using any text editor 
+2. At Line 7, change "levine.yaml" to "levine_blocked.yaml" and save the file 
+
 Copy this repo into your workspace src folder and run the following in your bash 
 ```bash 
 cd <your_ros_workspace>
