@@ -3,13 +3,12 @@ Automatic Emergency breaking, or **AEB**, is a system that triggers emergency br
 
 To Run the Program, make sure you have installed the F1 Tenth simulator from [here](https://f1tenth.readthedocs.io/en/stable/going_forward/simulator/sim_install.html)
 
-Copy this repo into your workspace src folder 
-Run the following in your bash 
-'''bash 
+Copy this repo into your workspace src folder  and run the following in your bash 
+```bash 
 cd <your_ros_workspace>
 catkin_make 
 roslaunch tiong_hee_roslab tiong_hee_lab2.launch 
-'''
+```
 
 Press K to control the car using standard WASD control
 
