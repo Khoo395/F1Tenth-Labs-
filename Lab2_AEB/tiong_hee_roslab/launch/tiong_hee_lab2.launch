@@ -1,0 +1,7 @@
+<launch>
+
+
+<include file="$(find f1tenth_simulator)/launch/simulator.launch"/>
+<node pkg="tiong_hee_roslab" name="safety_node" type="safety_node"/>
+
+</launch>

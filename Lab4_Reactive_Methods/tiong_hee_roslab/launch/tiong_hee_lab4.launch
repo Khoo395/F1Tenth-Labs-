@@ -1,0 +1,7 @@
+<launch>
+
+
+<include file="$(find f1tenth_simulator)/launch/simulator.launch"/>
+<node pkg="tiong_hee_roslab" name="gap_follow" type="gap_follow"/>
+
+</launch>

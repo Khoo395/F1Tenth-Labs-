@@ -1,0 +1,2 @@
+## Lab 1 
+The objective of this lab is to get familiar with basic Ros Structures. Basic Publishers and Subsribers are implemented using Custom Message type. A launch file is created to start all processes together. 
