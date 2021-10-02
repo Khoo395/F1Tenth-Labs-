@@ -6,3 +6,7 @@
 The resource for this course can be obtained via [F1 Tenth Website](https://f1tenth.org/learn.html)  
 
 All the Assignment details and Handouts can be obtained from  The [F1Tenth Official Github repository](https://github.com/f1tenth/f1tenth_labs)
+
+
+https://user-images.githubusercontent.com/74847078/135709343-b37ba94a-d1bc-48af-81c2-40e337a3aa28.mp4
+
