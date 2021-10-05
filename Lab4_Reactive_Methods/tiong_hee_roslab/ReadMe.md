@@ -6,12 +6,20 @@ The lab Handouts are obtained from
 
 To Run the Program, make sure you have installed the F1 Tenth simulator from [here](https://f1tenth.readthedocs.io/en/stable/going_forward/simulator/sim_install.html)
 
+As this Assignment runs on the Levine_blocked map, You will need to change the map by doing the following: 
+1. Navigate to f1tenth_simulator/launch and open "simulator.launch" using any text editor 
+2. At Line 7, change "levine.yaml" to "levine_blocked.yaml" and save the file 
+
 Copy this repo into your workspace src folder and run the following in your bash 
 ```bash 
 cd <your_ros_workspace>
 catkin_make 
 roslaunch tiong_hee_roslab tiong_hee_lab4.launch 
 ```
+
+
+
+https://user-images.githubusercontent.com/74847078/135709374-eb17a76c-fe8e-4a33-8e4e-026695211333.mp4
 
 
 ***
