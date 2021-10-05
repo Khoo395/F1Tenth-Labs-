@@ -1,6 +1,8 @@
 ## Lab4: Reactive Methods 
 In this lab, better reactive methods such as **Follow the Gap** and other variants are discussed. Among the variants, I chosed to implement the **Disparities Method**, which is developed by the UNC Champion Team and explained in [this video](https://www.youtube.com/watch?v=ctTJHueaTcY). 
 
+The lab Handouts are obtained from 
+
 
 To Run the Program, make sure you have installed the F1 Tenth simulator from [here](https://f1tenth.readthedocs.io/en/stable/going_forward/simulator/sim_install.html)
 

@@ -5,4 +5,4 @@
  
 The resource for this course can be obtained via [F1 Tenth Website](https://f1tenth.org/learn.html)  
 
-All the Assignment details and Handouts can be obtained from  The [F1Tenth Official Github repository](https://github.com/f1tenth/f1tenth_labs)
+All the Assignment details and Handouts are developed by Safe Autonomous Systems Lab at the University of Pennsylvania under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), and can be obtained from  The [F1Tenth Official Github repository](https://github.com/f1tenth/f1tenth_labs)
